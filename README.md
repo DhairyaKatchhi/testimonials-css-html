@@ -1,2 +1,1 @@
-# my-first-web
-my first webpage. learning web development from scratch
+testimonials created for frontend mentor project
