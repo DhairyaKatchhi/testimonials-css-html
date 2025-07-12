@@ -57,8 +57,7 @@ body{
 	background-color:hsl(263, 55%, 52%);
 	background-image:url('images/bg-pattern-quotation.svg');
 	background-repeat: no-repeat;
-	background-position-y:5px;
-	background-position-x: 750px;
+	background-position-x: 500px;
 	color:white;
 	margin-bottom:16px;
 
